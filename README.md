@@ -6,7 +6,7 @@
 
 - Adicionar mascaras e validações aos campos apresentados na aplicação.
 
-#O que iremos analizar:
+#O que iremos analisar:
 
 - Capacidade em identificar e solucionar os bugs existentes utilizando boas práticas de programação
 
